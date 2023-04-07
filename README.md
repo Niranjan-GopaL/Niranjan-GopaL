@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Fuhrerh-Lemon/Fuhrerh-Lemon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+</div>
