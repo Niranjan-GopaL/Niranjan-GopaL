@@ -52,11 +52,11 @@ Display __Fintech and other repos of project your currently working on
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<div align="center">
-![github contribution grid snake animation](https://raw.githubusercontent.com/Fuhrerh-Lemon/Fuhrerh-Lemon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-</div>
-
 ---
 ## I'm on Discord!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Archer#3625) 
 
+
+<div align="center">
+![github contribution grid snake animation](https://raw.githubusercontent.com/Fuhrerh-Lemon/Fuhrerh-Lemon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+</div>
