@@ -4,6 +4,8 @@
 
 Build a Back bone for README using https://gprm.itsvg.in (For Icon modification refer to https://www.youtube.com/watch?v=9A8sQZDRn5o)
 
+use https://github.com/athul/waka-readme for wakatime integration
+
 use https://github.com/DenverCoder1/readme-typing-svg for creating effects. &nbsp;
 <----> &nbsp;
 First Year Electronics Engineering iMTech Student &nbsp;
