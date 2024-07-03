@@ -30,20 +30,20 @@ Display __Fintech and other repos of project your currently working on &nbsp;\
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, python, C++, Rust, CSS
-From: 13 March 2023 - To: 30 June 2024
+From: 13 March 2023 - To: 01 July 2024
 
-Total Time: 651 hrs 41 mins
+Total Time: 654 hrs 1 min
 
-Python        187 hrs 55 mins ███████▒░░░░░░░░░░░░░░░░░   28.78 %
-C++           130 hrs         █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-JavaScript    64 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Java          42 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Markdown      38 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Rust          37 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Text          36 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Assembly      22 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-C             21 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-TypeScript    17 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python        187 hrs 55 mins ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+C++           130 hrs         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+JavaScript    64 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Java          42 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Markdown      39 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Rust          37 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Text          36 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Assembly      22 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+C             21 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TypeScript    17 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
