@@ -1,0 +1,1 @@
+You can ran a gif that is stored in this folder
