@@ -113,6 +113,24 @@ Display __Fintech and other repos of project your currently working on &nbsp;\
 ( Now this is fetched by Wakatime API and by using the awesome github action written by ATUL: link)
 
 <!--START_SECTION:waka-->
+
+```javascript, typescript, python, C++, Rust, CSS
+From: 13 March 2023 - To: 02 July 2024
+
+Total Time: 655 hrs 38 mins
+
+Python        187 hrs 55 mins ███████░░░░░░░░░░░░░░░░░░   28.60 %
+C++           130 hrs         █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+JavaScript    64 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Java          42 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Markdown      41 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Rust          37 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Text          36 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Assembly      22 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+C             21 hrs 46 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+TypeScript    17 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+```
+
 <!--END_SECTION:waka-->
 
 
