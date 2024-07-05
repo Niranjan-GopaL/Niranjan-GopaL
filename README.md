@@ -1,7 +1,7 @@
 
 ![Banner-custom](./assets/Banner-gradients.png)
 
-A strong Generalist, trying to ultimately Specialize in 
+A strong Generalist, trying to ultimately Specialize in :-
 - Elegant and Proffesional Software Infrastructure and Design
 - RISC-V ISA, Pipelined and Multi-core architecture, FPGA designs ( cuz that's my Master's specialization )
 - AI/ML ( cuz that's my Master's specialization )
@@ -44,14 +44,14 @@ TypeScript    17 hrs 46 mins  ▓░░░░░░░░░░░░░░░�
 
 - Full Stack projects:- 
     - [Personal backend Toolkit](https://github.com/Niranjan-GopaL/API_Dev)
-    - [Whatsapp clone]() for iOS mobile 
-    - [Showcase for NFT]() 
-    - [Image Manipulation platform]() 
-    - [Landing Page]() for a restaurent
-    - [Simple Rust]() projects
+    - [Whatsapp clone](https://github.com/Niranjan-GopaL/Whatsapp-clone.git) for iOS mobile 
+    - [Showcase for NFT](https://github.com/Niranjan-GopaL/BlockArt__) 
+    - [Image Manipulation platform](https://github.com/Niranjan-GopaL/P2-2023-Project) 
+    - [Landing Page](https://github.com/Niranjan-GopaL/Gericht) for a restaurent
+    - [Simple Rust](https://github.com/Niranjan-GopaL/Learning-Rust-By-Example) projects
 
 - ML and Computer Vision Projects 
-    - Since most of these were for first time learning purpose, all of them are here :- [Exploring Open CV and ML ](https://github.com/Niranjan-GopaL/Exploring__Open_CV__)
+    - [Exploring Open CV and ML ](https://github.com/Niranjan-GopaL/Exploring__Open_CV__)
     - Face Recognition System to recognise a user from a live camera feed
     - Controlling system operations using hand gestures ( Volume,  )
     - Analysing a Footbal Match 
@@ -60,9 +60,13 @@ TypeScript    17 hrs 46 mins  ▓░░░░░░░░░░░░░░░�
         - trajectory of the ball after hit
 
 
-- Other important projects 
-    - A fully Pipelined 5 stage Processor siulation 
-    - MIPS Assembler for a general MATMUL between any square matrix 
+- Other important projects
+    - A fully Pipelined 5 stage [Processor siulation](https://github.com/Niranjan-GopaL/Pipelined_Processor_Simulation) 
+    - [MIPS Assembler](https://github.com/Niranjan-GopaL/__MIPS_ISA___Experiments.git) for a general MATMUL between any square matrix 
+    - [Data Structures and Algorithms collections](https://github.com/Niranjan-GopaL/Algorithm-Toolkits) ; [Combinatorics and Math](https://github.com/Niranjan-GopaL/Learning_NumberTheory_Combinatorics_etc)
+    - [Implementing an FSM in Verilog](https://github.com/Niranjan-GopaL/ECE-Projects) and [A Digital Clock from Logic Gates](https://github.com/Niranjan-GopaL/ECE-Projects/tree/main/Circuitverse_projects)
+    - [Youtube UI](https://github.com/Niranjan-GopaL/Youtube-clone)
+    - [User Authentication System (Email validation)](https://github.com/Niranjan-GopaL/User-Auth)
 
 
 
@@ -70,11 +74,12 @@ TypeScript    17 hrs 46 mins  ▓░░░░░░░░░░░░░░░�
 
 ### Interesting things I learnt this week :- 
 ( No, this is not fetched by Github Actions from an API, I manually write this every Sunday, lol ! )
-
 Here is a list of all the interesting things that I found :-
-- Copy Mode in Tmux let's so copy whatever is in you're screen in T Mux
-- There is a mechanism stack windows in Hyprland
--  
+
+>- Copy Mode in Tmux let's us to copy whatever is in our screen in T Mux (terminal outputs too)
+>- There is a mechanism to stack windows in Hyprland
+>- IME / IMF ( Input Method Engine and Input Method Framework) is how you type in Japanese from an English Keyboard, it's also what all normal andriods have to process keypresses Check out this blog :-  [Wayland does not work well with IM](https://dorotac.eu/posts/input_broken/) 
+
 
 ### Desktop Setup
 
