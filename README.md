@@ -76,6 +76,8 @@ TypeScript    17 hrs 46 mins  ▓░░░░░░░░░░░░░░░�
 ( No, this is not fetched by Github Actions from an API, I manually write this every Sunday, lol ! )
 Here is a list of all the interesting things that I found :-
 
+
+> [!TIP]
 >- Copy Mode in Tmux let's us to copy whatever is in our screen in T Mux (terminal outputs too)
 >- There is a mechanism to stack windows in Hyprland
 >- IME / IMF ( Input Method Engine and Input Method Framework) is how you type in Japanese from an English Keyboard, it's also what all normal andriods have to process keypresses Check out this blog :-  [Wayland does not work well with IM](https://dorotac.eu/posts/input_broken/) 
