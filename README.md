@@ -17,11 +17,11 @@ What I am currently doing :-
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, python, C++, Rust, CSS
-From: 13 March 2023 - To: 08 September 2024
+From: 13 March 2023 - To: 09 September 2024
 
-Total Time: 685 hrs 50 mins
+Total Time: 685 hrs 55 mins
 
-Python        188 hrs 49 mins ███████░░░░░░░░░░░░░░░░░░   27.41 %
+Python        188 hrs 54 mins ███████░░░░░░░░░░░░░░░░░░   27.41 %
 C++           135 hrs 18 mins █████░░░░░░░░░░░░░░░░░░░░   19.64 %
 JavaScript    64 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
 Markdown      53 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
