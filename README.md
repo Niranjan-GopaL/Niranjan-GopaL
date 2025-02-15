@@ -17,18 +17,18 @@ What I am currently doing :-
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, python, C++, Rust, CSS
-From: 13 March 2023 - To: 12 February 2025
+From: 13 March 2023 - To: 13 February 2025
 
-Total Time: 891 hrs 57 mins
+Total Time: 893 hrs 50 mins
 
-Python         293 hrs 4 mins  ████████░░░░░░░░░░░░░░░░░   32.63 %
-C++            137 hrs 22 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-JavaScript     70 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Markdown       69 hrs 39 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-V              44 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Java           42 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Text           40 hrs 13 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Rust           38 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Python         293 hrs 54 mins ████████░░░░░░░░░░░░░░░░░   32.65 %
+C++            137 hrs 22 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+JavaScript     70 hrs 49 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Markdown       70 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+V              44 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Java           42 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Text           40 hrs 13 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Rust           38 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 C              23 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Assembly       23 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
