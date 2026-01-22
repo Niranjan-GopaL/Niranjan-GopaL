@@ -1,18 +1,19 @@
 
 ![Banner-custom](./assets/Banner-gradients.png)
 
-A strong Generalist, trying to ultimately Specialize in :-
+A strong Generalist, trying to specialize in :-
 - Elegant and Proffesional Software Infrastructure and Design
-- RISC-V ISA, Pipelined and Multi-core architecture, FPGA designs ( cuz that's my Master's specialization )
-- AI/ML ( cuz that's my Master's specialization )
+- Computer architectures - OoO cores, All-PUs, FPGA designs ( cuz that's my Master's specialization )
+- Transformer acceleration on resource constrained devices ( cuz that's my Master's specialization )
 
 
 What I am currently doing :-
-- Learning NextJS, Docker for containerization ( check out [Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers)), Golang  for enforcing my Back-end understandings
-- Deploying my projects
+- Mangling with Innovus for making floorplan and layout for a processor rtl2gds flow.
+- TinyTapeout for an OoO Multi Core posit-dt processor ( paper accepeted at ISQED 2026 )
+- Accelerator for sequence-matching in a geneome sequence
 - Making my own website for migrating [My blogs](https://niranjan2004.hashnode.dev/) from Hashnode
 - Reading 《Systems Performance 2nd Ed.》《 Deep Work Cal Newport 》
-- Working on - A compilation of templates that I can use for Hackathons 
+- Working on - Automating different parts of my workflow in RHEL
 
 <!--START_SECTION:waka-->
 
@@ -71,12 +72,6 @@ Assembly             27 hrs 47 mins  ▓░░░░░░░░░░░░░�
 
 
 
-
-### Interesting things I learnt this week :- 
-( No, this is not fetched by Github Actions from an API, I manually write this every Sunday, lol ! )
-Here is a list of all the interesting things that I found :-
-
-
 > [!TIP]
 >- Copy Mode in Tmux let's us to copy whatever is in our screen in T Mux (terminal outputs too)
 >- There is a mechanism to stack windows in Hyprland
@@ -110,7 +105,7 @@ All my [dotfiles](https://github.com/Niranjan-GopaL/dotfiles), configuration fil
 
 
 ### As future hobbies :-
-- GPU architecture, RISC - VV ( vecotization )
+- GPU architecture, RISC - VV ( vectorization )
 - Compilers, Text Editors, IDEs and Regex Engines
 - Graphics and 3D Rendering, Animation libraries, GameDev
 - Linux systems, Bootloaders, and the notorious OSDev
