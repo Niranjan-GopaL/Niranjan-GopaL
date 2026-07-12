@@ -18,7 +18,7 @@ What I am currently doing :-
 <!--START_SECTION:waka-->
 
 ```javascript, typescript, python, C++, Rust, CSS
-From: 13 March 2023 - To: 09 July 2026
+From: 13 March 2023 - To: 10 July 2026
 
 Total Time: 1,427 hrs 56 mins
 
